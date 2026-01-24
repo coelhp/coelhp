@@ -8,15 +8,14 @@
 
 </h4>
 
-Sou estudante e apaixonado por tecnologia. Tenho vivência na área de T.I e Automação Industrial. Gosto de utilizar a a programação para otimizar tarefas e demandas de rotina. Atualmente atuo no setor de Manutenção Corporativa da Louis Dreyfus Company.
+Sou Analista de Manutenção Preditiva e apaixonado por tecnologia. Tenho vivência na área de T.I e Automação Industrial. Busco utilizar a programação para otimizar tarefas e demandas de rotina, também para desenvolver ferramentas para meu atual trabalho e etc. Atualmente atuo no setor de Manutenção Corporativa da Louis Dreyfus Company.
 
-Tenho conhecimento em: Python, MatLab, JavaScript, TypeScript, Node.js, AWS, SCILAB, PHP, R, MongoDB, SQL, MySQL, API Rest, HTML, CSS, Java, VisualBasic, Git, Docker, Linux, MacOS, Windows. E estou sempre buscando aprender um pouco mais sobre linguagens e seus recursos.
+Tenho conhecimento em: **Python**, **MatLab**, **JavaScript**, TypeScript, Node.js, AWS, **SciLab**, PHP, **R**, MongoDB, **SQL**, **MySQL**, **API Rest**, **HTML**, **CSS**, **Java**, **VisualBasic**, **Git**, Docker, Linux, MacOS, **Windows**.
 
-A tecnologia deve ser sempre interpretada como meio, nunca como fim. Ela nos ajuda a alcançar nossos objetivos, não é nosso objetivo em si.
+Penso que a tecnologia deve ser sempre interpretada como meio, nunca como fim. Ela nos ajuda a alcançar nossos objetivos, não é nosso objetivo em si.
 
 Me chame para uma conversa, estou sempre aberto para aprender coisas novas e discutir idéias malucas. Você pode me alcançar em patrick.riquelme@hotmail.com
 
-O verdadeiro soldado não luta porque odeia o que está à sua frente, mas porque ama o que está atrás dele. - G. K. Chesterton
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -33,17 +32,15 @@ O verdadeiro soldado não luta porque odeia o que está à sua frente, mas porqu
   
 </div>
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="" cellspacing="" cellpadding="">
   <tr>
-    <td style="border: 0";>
-      <img width="400" src="https://i.pinimg.com/736x/55/0e/57/550e57d370568799e53bcb8f582dc4c0.jpg" />
-    </td>
+      </>
     <td style="border: 0";>
       <p>
-        💻 Estudante de Engenharia de Controle e Automação e Análise e Desenvolvimento de Sistemas, atuante nas áreas de T.I e Manutenção Industrial. 
+        💻 Bacharel em Engenharia de Controle e Automação, atuante nas áreas de T.I e Manutenção Industrial.
       </p>
       <p>
-        🌙 Realizo projetos na área da Robótica, Automação, Análise de Dados e tenho visado ferramentas para otimizar tarefas de rotina como também tratamento de dados para relatórios industriais. 
+        🌙 Realizo projetos na área da Automação, Análise de Dados e Desenvolvimento WEB.
       </p>
       <h3>Other places you can find me</h3>
       <ul>
@@ -59,9 +56,4 @@ O verdadeiro soldado não luta porque odeia o que está à sua frente, mas porqu
       </ul>
     </td>
   </tr>
-
 </table>
-
-|![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=riquelmept&show_icons=true&theme=dark&hide_border=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmept&layout=compact&theme=dark&hide_border=true) |
-|:-:|:-:|
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riquelmept&card_width=350&theme=dark)|[![GitHub Streak](https://streak-stats.demolab.com?user=riquelmept&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)|
