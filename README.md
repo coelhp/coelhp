@@ -8,13 +8,15 @@
 
 </h4>
 
-Sou Analista de Manutenção Preditiva e apaixonado por tecnologia. Tenho vivência na área de T.I e Automação Industrial. Busco utilizar a programação para otimizar tarefas e demandas de rotina, também para desenvolver ferramentas para meu atual trabalho e etc. Atualmente atuo no setor de Manutenção Corporativa da Louis Dreyfus Company.
+Analista de Manutenção Preditiva, com atuação em Automação Industrial e T.I. Utilizo programação para otimizar rotinas, automatizar processos e desenvolver ferramentas aplicadas à manutenção e à operação industrial. Atualmente atuo na Manutenção Corporativa da Louis Dreyfus Company.
 
-Tenho conhecimento em: **Python**, **MatLab**, **JavaScript**, TypeScript, Node.js, AWS, **SciLab**, PHP, **R**, MongoDB, **SQL**, **MySQL**, **API Rest**, **HTML**, **CSS**, **Java**, **VisualBasic**, **Git**, Docker, Linux, MacOS, **Windows**.
+**Tecnologias:**  
+Python, MATLAB, JavaScript, TypeScript, Node.js, AWS, SciLab, PHP, R, SQL/MySQL, MongoDB, APIs REST, HTML, CSS, Java, Visual Basic, Git, Docker, Linux, macOS e Windows.
 
 Penso que a tecnologia deve ser sempre interpretada como meio, nunca como fim. Ela nos ajuda a alcançar nossos objetivos, não é nosso objetivo em si.
 
-Me chame para uma conversa, estou sempre aberto para aprender coisas novas e discutir idéias malucas. Você pode me alcançar em patrick.riquelme@hotmail.com
+Aberto a trocas de conhecimento e novas ideias.  
+📫 patrick.riquelme@hotmail.com
 
 
 <div style="display: inline_block"><br>
