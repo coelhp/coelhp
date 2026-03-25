@@ -1,6 +1,6 @@
 # Olá, eu sou Patrick Coelho 👋
 
-Sou Engenheiro de Controle e Automação, e atuo com o desenvolvimento focado em Ciência de Dados, IA/ML e Desenvolvimento Web Full Stack.  
+Sou graduado em Engenharia de Controle e Automação, e atuo com o desenvolvimento focado em Ciência de Dados, IA/ML e Desenvolvimento Web Full Stack.  
 Atualmente, atuo no setor de Manutenção Industrial, com foco em Manutenção Preditiva, Automação e Otimização de Processo nos setores industriais.
 Gosto de transformar dados em soluções e construir aplicações do início ao fim.
 
@@ -40,8 +40,8 @@ Gosto de transformar dados em soluções e construir aplicações do início ao 
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=coelhp&show_icons=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&count_private=true&locale=pt-br" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coelhp&layout=compact&bg_color=000000&title_color=00FF00&text_color=00FF00&locale=pt-br" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=coelhp&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=008000&icon_color=008000&hide_border=true&count_private=true&locale=pt-br" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coelhp&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=008000&hide_border=true&locale=pt-br" />
 </p>
 
 ## 🐍 Contribuições
