@@ -11,7 +11,7 @@
 Engenheiro de Controle e Automação, com atuação em Automação Industrial e T.I. Utilizo programação para otimizar rotinas, automatizar processos e desenvolver ferramentas aplicadas à manutenção e à operação industrial. Atualmente atuo na Manutenção Corporativa da Louis Dreyfus Company.
 
 **Tecnologias:**  
-Python, MATLAB, JavaScript, TypeScript, Node.js, AWS, SciLab, PHP, R, SQL/MySQL, MongoDB, APIs REST, HTML, CSS, Java, Visual Basic, Git, Docker, Linux, macOS e Windows.
+Tenho conhecimentos em Python, MATLAB, JavaScript, TypeScript, Node.js, AWS, SciLab, PHP, R, SQL/MySQL, MongoDB, APIs REST, HTML, CSS, Java, Visual Basic, Git, Docker, Linux, macOS e Windows.
 
 Penso que a tecnologia deve ser sempre interpretada como meio, nunca como fim. Ela nos ajuda a alcançar nossos objetivos, não é nosso objetivo em si.
 
