@@ -1,4 +1,4 @@
-# Olá, eu sou Pedro Coelho 👋
+# Olá, eu sou Patrick Coelho 👋
 
 Sou Engenheiro de Controle e Automação, e atuo com o desenvolvimento focado em Ciência de Dados, IA/ML e Desenvolvimento Web Full Stack.  
 Atualmente, atuo no setor de Manutenção Industrial, com foco em Manutenção Preditiva, Automação e Otimização de Processo nos setores industriais.
