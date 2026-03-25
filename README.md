@@ -1,61 +1,56 @@
-# Olá, me chamo Patrick Coelho 👨🏻‍💻
+# Olá, eu sou Pedro Coelho 👋
 
-<h4 align="center">
+Desenvolvedor focado em Ciência de Dados, IA/ML e Desenvolvimento Web Full Stack.  
+Gosto de transformar dados em soluções e construir aplicações do início ao fim.
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/riquelmept/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/patrickcoelho)](https://www.linkedin.com/in/patrick-coelho-845b82230/)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/patrickriquelme)
+---
 
-</h4>
+## 🧠 Sobre mim
 
-Engenheiro de Controle e Automação, com atuação em Automação Industrial e T.I. Utilizo programação para otimizar rotinas, automatizar processos e desenvolver ferramentas aplicadas à manutenção e à operação industrial. Atualmente atuo na Manutenção Corporativa da Louis Dreyfus Company.
+- 🔭 Focado em **Ciência de Dados**, **Machine Learning** e **IA**
+- 🌐 Também desenvolvendo aplicações **Web Full Stack**
+- 📍 Brasil
+- 📫 Contato: [github.com/coelhp](https://github.com/coelhp)
 
-**Tecnologias:**  
-Tenho conhecimentos em Python, MATLAB, JavaScript, TypeScript, Node.js, AWS, SciLab, PHP, R, SQL/MySQL, MongoDB, APIs REST, HTML, CSS, Java, Visual Basic, Git, Docker, Linux, macOS e Windows.
+---
 
-Penso que a tecnologia deve ser sempre interpretada como meio, nunca como fim. Ela nos ajuda a alcançar nossos objetivos, não é nosso objetivo em si.
+## 🛠️ Tecnologias
 
-Aberto a trocas de conhecimento e novas ideias.  
-📫 patrick.riquelme@hotmail.com
+**Dados & IA**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
+**Desenvolvimento Web**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center"a alt="matlab" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="arduino" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
-  <img align="center"a  alt="java" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+**Sistemas & Outros**  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
-  
-  
-</div>
+---
 
-<table border="" cellspacing="" cellpadding="">
-  <tr>
-      </>
-    <td style="border: 0";>
-      <p>
-        💻 Bacharel em Engenharia de Controle e Automação, atuante nas áreas de T.I e Manutenção Industrial.
-      </p>
-      <p>
-        🌙 Realizo projetos na área da Automação, Análise de Dados e Desenvolvimento WEB.
-      </p>
-      <h3>Other places you can find me</h3>
-      <ul>
-        <li>
-          🐦 <a href="https://twitter.com/_riquelmept">Follow me on Twitter</a>
-        </li>
-        <li>
-          📷 <a href="https://www.instagram.com/riquelmept/">Follow me on instagram</a>
-        </li>
-        <li>
-          📬 <a href=mailto:patrick.riquelme@hotmail.com>Contact-me on email</a>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=coelhp&show_icons=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&count_private=true&locale=pt-br" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coelhp&layout=compact&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00&locale=pt-br" />
+</p>
+
+## 🐍 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coelhp/coelhp/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coelhp/coelhp/output/github-contribution-grid-snake.svg" />
+  <img alt="cobrinha comendo commits" src="https://raw.githubusercontent.com/coelhp/coelhp/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+*Sempre aprendendo. Sempre construindo.*
