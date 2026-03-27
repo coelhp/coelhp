@@ -34,14 +34,19 @@ Gosto de transformar dados em soluções e construir aplicações do início ao 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Scilab](https://img.shields.io/badge/Scilab-003366?style=flat&logoColor=white)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <[![Patrick's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=coelhp&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coelhp&layout=compact&bg_color=000000&title_color=008000&text_color=FFFFFF&hide_border=true&locale=pt-br" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=coelhp&show_icons=true&hide_border=true&theme=dark&locale=pt-br#gh-dark-mode-only" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coelhp&layout=compact&hide_border=true&theme=dark&locale=pt-br#gh-dark-mode-only" />
 </p>
 
 ## 🐍 Contribuições
