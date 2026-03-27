@@ -40,8 +40,8 @@ Gosto de transformar dados em soluções e construir aplicações do início ao 
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=coelhp&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=008000&icon_color=008000&hide_border=true&count_private=true&locale=pt-br" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coelhp&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=008000&hide_border=true&locale=pt-br" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=coelhp&show_icons=true&bg_color=000000&title_color=008000&text_color=008000&icon_color=008000&hide_border=true&count_private=true&locale=pt-br" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coelhp&layout=compact&bg_color=000000&title_color=008000&text_color=008000&hide_border=true&locale=pt-br" />
 </p>
 
 ## 🐍 Contribuições
