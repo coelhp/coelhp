@@ -40,6 +40,7 @@ Gosto de transformar dados em soluções e construir aplicações do início ao 
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
+  <[![Patrick's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=coelhp&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coelhp&layout=compact&bg_color=000000&title_color=008000&text_color=FFFFFF&hide_border=true&locale=pt-br" />
 </p>
 
