@@ -45,8 +45,8 @@ Gosto de transformar dados em soluções e construir aplicações do início ao 
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=coelhp&show_icons=true&hide_border=true&theme=dark&locale=pt-br#gh-dark-mode-only" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coelhp&layout=compact&hide_border=true&theme=dark&locale=pt-br#gh-dark-mode-only" />
+  <img height="160" src="https://github-readme-stats-coelhp.vercel.app/api?username=coelhp&show_icons=true&hide_border=true&theme=dark&locale=pt-br#gh-dark-mode-only" />
+  <img height="160" src="https://github-readme-stats-coelhp.vercel.app/api/top-langs/?username=coelhp&layout=compact&hide_border=true&theme=dark&locale=pt-br#gh-dark-mode-only" />
 </p>
 
 ## 🐍 Contribuições
