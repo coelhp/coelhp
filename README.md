@@ -8,9 +8,9 @@ Gosto de transformar dados em soluções e construir aplicações do início ao 
 
 ## 🧠 Sobre mim
 
-- 🔭 Focado em **Ciência de Dados**, **Machine Learning** e **IA**
+- 🔭 Atuo em **Ciência de Dados**, **Machine Learning** e **IA**
 - 🌐 Também desenvolvendo aplicações **Web Full Stack**
-- 📍 Brasi
+- 📍 Brasil
 - 📫 Contato: [GitHub](https://github.com/coelhp) | [Linkedin](https://www.linkedin.com/in/patrick-riquelme-santos-coelho-845b82230/) |  patrick.riquelme@hotmail.com
 
 ---
