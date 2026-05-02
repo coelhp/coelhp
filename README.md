@@ -59,4 +59,4 @@ Gosto de transformar dados em soluções e construir aplicações do início ao 
 
 ---
 
-*Sempre aprendendo. Sempre construindo.*
+*Sempre aprendendo, sempre construindo.*
