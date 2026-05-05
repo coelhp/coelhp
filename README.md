@@ -1,6 +1,6 @@
 # Olá, eu sou Patrick Coelho 👋!
 
-Sou graduado em Engenharia de Controle e Automação, e atuo com o desenvolvimento focado em Ciência de Dados, IA/ML e Desenvolvimento Web Full Stack.  
+Sou graduado em Engenharia de Controle e Automação, e atuo com o desenvolvimento focado em Ciência de Dados, IA/ML e Desenvolvimento Web Full Stack.
 Atualmente, atuo no setor de Manutenção Industrial, com foco em Manutenção Preditiva, Automação e Otimização de Processo nos setores industriais.
 Gosto de transformar dados em soluções e construir aplicações do início ao fim.
 
