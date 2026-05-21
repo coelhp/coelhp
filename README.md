@@ -15,7 +15,7 @@ Gosto de transformar dados em soluções e construir aplicações do início ao 
 
 ---
 
-## 🛠️ Tecnologias:
+## 🛠️ Tecnologias
 
 **Dados & IA**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
