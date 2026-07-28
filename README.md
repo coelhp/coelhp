@@ -45,8 +45,9 @@ Gosto de transformar dados em soluções e construir aplicações do início ao 
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats-tau-eight-91.vercel.app/api?username=coelhp&show_icons=true&hide_border=true&theme=dark&locale=pt-br" />
-  <img height="160" src="https://github-readme-stats-tau-eight-91.vercel.app/api/top-langs/?username=coelhp&layout=compact&hide_border=true&theme=dark&locale=pt-br" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=coelhp&show_icons=true&hide_border=true&theme=dark&locale=pt-br" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=coelhp&layout=compact&hide_border=true&theme=dark&locale=pt-br" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/?username=coelhp&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&custom_title=Anurag%27s+Stats&disable_animations=true&hide_border=true&number_format=long&show=prs_merged_percentage,prs_reviewed" />
 </p>
 
 ## 🐍 Contribuições
